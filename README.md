@@ -4,6 +4,9 @@ This repo is a quick way to get the entire TICK Stack spun up and working togeth
 
 To get started you need a running docker installation. If you don't have one, you can download Docker for [Mac](https://www.docker.com/docker-mac) or [Windows](https://www.docker.com/docker-windows), or follow the installation instructions for Docker CE for your [Linux distribution](https://docs.docker.com/engine/installation/#server).
 
+### Initial setup
+Signup with finnhub to get the api key. Insert the api key in docker-compose.yml.
+
 ### Running
 
 To run the `sandbox`, simply use the convenient cli:
